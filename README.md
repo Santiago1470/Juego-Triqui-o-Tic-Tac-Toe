@@ -13,15 +13,12 @@ Instructions:
 To run the game there are two options:
   1.  The first option is to download the .exe, it is in the folder "juego triqui", if the warning of danger comes out, there is no problem, you only have to click on continue, save, or on the option that indicates to continue with the download, it depends on the navigator.
   2.  The second option is to download the .jar, it is at the beginning with the name of Triqui-(Tic-Tac-Toe), but before opening it you must have installed the Java jdk. Once the Java JDK is installed you will be able to open the Triqui-(Tic-Tac-Toe).jar.
-  3.  The third option is to open the following link: https://replit.com/@Santiago1470/Game-Tic-Tac-Toe-or-Triqui#Main.java . When opening the link, the corresponding files can be observed and, to execute and visualize the application, click on "▶ Run example", or, "▶ Execute example", in English and Spanish, respectively. Once the program has been executed, the application can be observed. Some labels may be cropped, however, this only happens with this option.
-  4.  The last option (you must have very basic knowledge in java) is to copy the application code that is in the Main.java file and in the Game.java file. In a code editor or IDE and paste it there. Also, the files corresponding to the Main.java and Game.java must be created, finally the project is executed and the application will be opened. The above must be done with the Java JDK installed.
+  3.  The third option is to open the following link: https://replit.com/@Santiago1470/Game-Tic-Tac-Toe-or-Triqui#Main.java . When opening the link, the corresponding files can be observed and, to execute and visualize the application, click on "▶ Run example", or, "▶ Ejecutar ejemplo", in English and Spanish, respectively. Once the program has been executed, the application can be observed. Some labels may be cropped, however, this only happens with this option.
+  4.  The last option (you must have very basic knowledge in java) is to copy the application code that is in the Main.java file and in the Juego.java file. In a code editor or IDE and paste it there. Also, the files corresponding to the Main.java and Juego.java must be created, finally the project is executed and the application will be opened. The above must be done with the Java JDK installed.
 
 I hope you like the game, if so, you can leave a comment, a like or a star in this repository, otherwise, do not forget to leave a comment with what may be wrong. Also, don't forget to leave a like or star.
 
 Greetings.
-
-
-Translated with www.DeepL.com/Translator (free version)
 
 
 ------------------------------------------------------------------------------------------------------------
