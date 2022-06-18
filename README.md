@@ -19,7 +19,6 @@ I hope you like the game, if so, you can leave a comment, a like or a star in th
 
 Greetings.
 
-Translated with www.DeepL.com/Translator (free version)
 
 ------------------------------------------------------------------------------------------------------------
 
