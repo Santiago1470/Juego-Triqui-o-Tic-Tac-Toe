@@ -10,7 +10,7 @@ First semester project of Systems Engineering: Triqui or Tic Tac Toe game develo
 
 Instructions:
 
-To run the game there are two options:
+To run the game there are four options:
   1.  The first option is to download the .exe, it is in the folder "juego triqui", if the warning of danger comes out, there is no problem, you only have to click on continue, save, or on the option that indicates to continue with the download, it depends on the navigator.
   2.  The second option is to download the .jar, it is at the beginning with the name of Triqui-(Tic-Tac-Toe), but before opening it you must have installed the Java jdk. Once the Java JDK is installed you will be able to open the Triqui-(Tic-Tac-Toe).jar.
   3.  The third option is to open the following link: https://replit.com/@Santiago1470/Game-Tic-Tac-Toe-or-Triqui#Main.java . When opening the link, the corresponding files can be observed and, to execute and visualize the application, click on "▶ Run example", or, "▶ Ejecutar ejemplo", in English and Spanish, respectively. Once the program has been executed, the application can be observed. Some labels may be cropped, however, this only happens with this option.
@@ -29,7 +29,7 @@ Proyecto de primer semestre de Ing. de Sistemas: Juego triqui o Tic Tac Toe desa
 
 Instrucciones:
 
-Para ejecutar el juego hay dos opciones:
+Para ejecutar el juego hay cuatro opciones:
   1.  La primer opción es descargar el .exe, está en la carpeta "juego triqui", si sale la advertencia de peligro, no hay problema, solamente hay que dar clic en continuar, guardar, o en la opción que indique continuar con la descarga, depende del navegador.
   2.  La segunda opción es descaragar el .jar, está al incio con el nombre de Triqui-(Tic-Tac-Toe), pero para antes de abrirlo se debe tener instalado el jdk de Java. Una vez instalado el JDK de Java se podrá abrir el Triqui-(Tic-Tac-Toe).jar
   3.  La tercera opción es abrir el siguiente link: https://replit.com/@Santiago1470/Game-Tic-Tac-Toe-or-Triqui#Main.java . Al abrir el link se podrán observar los archivos correspondientes y, para ejecutar y visualizar la aplicación se debe dar clic en "▶ Run example", ó, "▶ Ejecutar ejemplo", en inglés y español, respectivamente. Una vez ejecutado el programa se podra observar la aplicación. Algunas etiquetas pueden verse recortadas, sin embargo, solo sucede con está opción.
